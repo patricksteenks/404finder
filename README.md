@@ -8,7 +8,7 @@ All 404 url's are logged to a file called '404_log.txt'. When during processing 
 Great to find 404's on your website
 
 ## Usage
-just run `python 404finder.py <url-to-sitemap.xml>` to run the script.
+Just run `python 404finder.py <url-to-sitemap.xml>` to run the script.
 
 ### Open-source
 Feel free to duplicate, replicate or adjust the script.
